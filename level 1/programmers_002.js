@@ -15,5 +15,3 @@ function solution(s, n) {
     }
     return answer;
 }
-
-console.log(solution('a B z', 4))
